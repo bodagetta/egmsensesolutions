@@ -2018,7 +2018,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #8cc9f0;
+			background-color: #9b8101;
 			color: #ffffff !important;
 			box-shadow: none;
 		}
@@ -2028,7 +2028,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #9acff2;
+				background-color: #9b8101;
 			}
 
 			input[type="submit"].special:active,
@@ -2036,7 +2036,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #7ec3ee;
+				background-color: #9b8101;
 			}
 
 			input[type="submit"].special.icon:before,
@@ -3432,7 +3432,7 @@
 			#main input[type="button"].special,
 			#main button.special,
 			#main .button.special {
-				background-color: #8cc9f0;
+				background-color: #9b8101;
 				color: #ffffff !important;
 				box-shadow: none;
 			}
